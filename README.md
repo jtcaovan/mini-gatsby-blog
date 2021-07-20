@@ -7,6 +7,9 @@
   Gatsby minimal starter
 </h1>
 
+# Description
+A simple blog made following the Gatsby documentation.
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
